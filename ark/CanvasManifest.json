@@ -5,7 +5,7 @@
       "DataflowAnalysisEnabled": false,
       "DataflowAnalysisFlagStateToggledByUser": false
     },
-    "DocVersion": "1.334",
+    "DocVersion": "1.335",
     "MinVersionToLoad": "1.331",
     "MSAppStructureVersion": "2.0"
   },
@@ -87,7 +87,6 @@
       "smartemaildatacard": false,
       "supportcolumnnamesasidentifiers": false,
       "tabledoesntwraprecords": true,
-      "untypedobject": true,
       "usedisplaynamemetadata": true,
       "useenforcesavedatalimits": true,
       "useexperimentalcdsconnector": true,
@@ -95,7 +94,7 @@
       "useguiddatatypes": true,
       "usenonblockingonstartrule": true,
       "webbarcodescanner": false,
-      "zeroalltabindexes": true
+      "zeroalltabindexes": false
     },
     "Author": "",
     "BindingErrorCount": 0,
@@ -114,7 +113,7 @@
     "Id": "44b9c608-d8df-4910-aeaf-7aa94e1d1b01",
     "InstrumentationKey": "",
     "LocalDatabaseReferences": "{}",
-    "ManualOfflineProfileId": null,
+    "ManualOfflineProfileId": "",
     "Name": "prueba_github",
     "OriginatingVersion": "1.334",
     "ParserErrorCount": 0,
