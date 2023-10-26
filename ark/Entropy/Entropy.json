@@ -3,25 +3,23 @@
   "ControlUniqueGuids": {},
   "ControlUniqueIds": {
     "App": 1,
-    "Gallery1": 5,
-    "galleryTemplate1": 6,
     "Host": 3,
-    "Image1": 7,
-    "NextArrow1": 10,
-    "Rectangle1": 12,
-    "Screen1": 4,
-    "Separator1": 11,
-    "Subtitle1": 9,
-    "Title1": 8
+    "Image2": 14,
+    "Label1": 15,
+    "Screen1": 4
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "10/26/2023 03:47:38",
+  "HeaderLastSavedDateTimeUTC": "10/26/2023 03:51:08",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
-  "LocalResourceFileNames": {},
-  "LocalResourceRootPaths": {},
+  "LocalResourceFileNames": {
+    "gif logo Acampus negro": "82cf137e-535f-41cd-a333-c79adfa393b7.gif"
+  },
+  "LocalResourceRootPaths": {
+    "gif logo Acampus negro": "https://docserverpwaprodsbr.blob.core.windows.net/3bbd282a-70d6-45f7-ac34-b23ddb1bf685-1/resource/2a7ed9e9-8baa-4b49-a5cc-d58e3518dbb5.gif?skoid=58690ece-ec83-4ce2-9ce8-883d4d6a54ee&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2023-10-26T03%3A50%3A24Z&ske=2023-10-27T04%3A05%3A24Z&sks=b&skv=2021-12-02&sv=2021-12-02&spr=https&se=2023-10-27T04%3A05%3A24Z&sr=b&sp=r&sig=RxQuABzsSCFjaCX9pqwYFhgHDVJvVBt4zwiuFJfwpBA%3D"
+  },
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
   "OrderDataSource": {
@@ -31,51 +29,43 @@
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
   "OrderXMLTemplate": {
-    "gallery": 0,
-    "icon": 3,
     "image": 1,
-    "label": 2,
-    "rectangle": 4
+    "label": 0
   },
   "OverridablePropertiesEntry": {
     "App": {},
-    "Gallery1": {},
-    "galleryTemplate1": {},
     "Host": {},
-    "Image1": {},
-    "NextArrow1": {},
-    "Rectangle1": {},
-    "Screen1": {},
-    "Separator1": {},
-    "Subtitle1": {},
-    "Title1": {}
+    "Image2": {},
+    "Label1": {},
+    "Screen1": {}
   },
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PCFTemplateEntry": {},
   "PublishOrderIndices": {
     "App": 0,
-    "Gallery1": 0,
-    "galleryTemplate1": 0,
     "Host": 0,
-    "Image1": 0,
-    "NextArrow1": 0,
-    "Rectangle1": 0,
-    "Screen1": 0,
-    "Separator1": 0,
-    "Subtitle1": 0,
-    "Title1": 0
+    "Image2": 0,
+    "Label1": 0,
+    "Screen1": 0
   },
   "ResourcesJsonIndices": {
+    "Image-gif logo Acampus negro": 1,
     "Image-SampleImage": 0
   },
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.0359833,
+    "AnalysisLoadTime": 0.1073332,
     "ControlCount": {
+      "gallery": 1,
+      "galleryTemplate": 1,
+      "icon": 1,
+      "image": 1,
+      "label": 2,
+      "rectangle": 2,
       "screen": 1
     },
-    "DeserializationLoadTime": 0.4798668
+    "DeserializationLoadTime": 0.5425425
   },
   "WasLocalDatabaseReferencesEmpty": true
 }
